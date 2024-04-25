@@ -1,4 +1,4 @@
-React 渲染Markdown文件示例，以及如何配置css来高亮代码判断。
+React 渲染Markdown文件示例，以及如何配置css来高亮代码片段。
 
 ### 安装依赖
 ```
